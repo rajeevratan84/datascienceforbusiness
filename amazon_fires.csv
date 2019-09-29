@@ -67,7 +67,7 @@ ano,mes,estado,numero,encontro
 2003,Abril,Acre,1 Fires,1/1/2003
 2004,Abril,Acre,2 Fires,1/1/2004
 2005,Abril,Acre,1 Fires,1/1/2005
-2006,Abril,Acre, Fires,1/1/2006
+2006,Abril,Acre,,1/1/2006
 2007,Abril,Acre,0 Fires,1/1/2007
 2008,Abril,Acre,0 Fires,1/1/2008
 2009,Abril,Acre,0 Fires,1/1/2009
@@ -109,7 +109,7 @@ ano,mes,estado,numero,encontro
 2005,Junho,Acre,27 Fires,1/1/2005
 2006,Junho,Acre,1 Fires,1/1/2006
 2007,Junho,Acre,4 Fires,1/1/2007
-2008,Junho,Acre, Fires,1/1/2008
+2008,Junho,Acre,,1/1/2008
 2009,Junho,Acre,0 Fires,1/1/2009
 2010,Junho,Acre,1 Fires,1/1/2010
 2011,Junho,Acre,10 Fires,1/1/2011
@@ -126,7 +126,7 @@ ano,mes,estado,numero,encontro
 2002,Julho,Acre,39 Fires,1/1/2002
 2003,Julho,Acre,168 Fires,1/1/2003
 2004,Julho,Acre,42 Fires,1/1/2004
-2005,Julho,Acre, Fires,1/1/2005
+2005,Julho,Acre,,1/1/2005
 2006,Julho,Acre,33 Fires,1/1/2006
 2007,Julho,Acre,29 Fires,1/1/2007
 2008,Julho,Acre,41 Fires,1/1/2008
@@ -205,7 +205,7 @@ ano,mes,estado,numero,encontro
 2001,Novembro,Acre,1 Fires,1/1/2001
 2002,Novembro,Acre,86 Fires,1/1/2002
 2003,Novembro,Acre,15 Fires,1/1/2003
-2004,Novembro,Acre, Fires,1/1/2004
+2004,Novembro,Acre,,1/1/2004
 2005,Novembro,Acre,14 Fires,1/1/2005
 2006,Novembro,Acre,18 Fires,1/1/2006
 2007,Novembro,Acre,7 Fires,1/1/2007
@@ -216,7 +216,7 @@ ano,mes,estado,numero,encontro
 2012,Novembro,Acre,13 Fires,1/1/2012
 2013,Novembro,Acre,79 Fires,1/1/2013
 2014,Novembro,Acre,56 Fires,1/1/2014
-2015,Novembro,Acre, Fires,1/1/2015
+2015,Novembro,Acre,,1/1/2015
 2016,Novembro,Acre,46 Fires,1/1/2016
 2017,Novembro,Acre,98 Fires,1/1/2017
 1998,Dezembro,Acre,7 Fires,1/1/1998
@@ -1535,11 +1535,11 @@ ano,mes,estado,numero,encontro
 2016,Maio,Distrito Federal,15 Fires,1/1/2016
 2017,Maio,Distrito Federal,6 Fires,1/1/2017
 1998,Junho,Distrito Federal,2 Fires,1/1/1998
-1999,Junho,Distrito Federal, Fires,1/1/1999
+1999,Junho,Distrito Federal,,1/1/1999
 2000,Junho,Distrito Federal,1 Fires,1/1/2000
 2001,Junho,Distrito Federal,3 Fires,1/1/2001
 2002,Junho,Distrito Federal,7 Fires,1/1/2002
-2003,Junho,Distrito Federal, Fires,1/1/2003
+2003,Junho,Distrito Federal,,1/1/2003
 2004,Junho,Distrito Federal,6 Fires,1/1/2004
 2005,Junho,Distrito Federal,3 Fires,1/1/2005
 2006,Junho,Distrito Federal,2 Fires,1/1/2006
@@ -1562,7 +1562,7 @@ ano,mes,estado,numero,encontro
 2003,Julho,Distrito Federal,19 Fires,1/1/2003
 2004,Julho,Distrito Federal,37 Fires,1/1/2004
 2005,Julho,Distrito Federal,24 Fires,1/1/2005
-2006,Julho,Distrito Federal, Fires,1/1/2006
+2006,Julho,Distrito Federal,,1/1/2006
 2007,Julho,Distrito Federal,25 Fires,1/1/2007
 2008,Julho,Distrito Federal,12 Fires,1/1/2008
 2009,Julho,Distrito Federal,33 Fires,1/1/2009
@@ -1579,7 +1579,7 @@ ano,mes,estado,numero,encontro
 2000,Agosto,Distrito Federal,9 Fires,1/1/2000
 2001,Agosto,Distrito Federal,25 Fires,1/1/2001
 2002,Agosto,Distrito Federal,53 Fires,1/1/2002
-2003,Agosto,Distrito Federal, Fires,1/1/2003
+2003,Agosto,Distrito Federal,,1/1/2003
 2004,Agosto,Distrito Federal,108 Fires,1/1/2004
 2005,Agosto,Distrito Federal,20 Fires,1/1/2005
 2006,Agosto,Distrito Federal,40 Fires,1/1/2006
@@ -1645,7 +1645,7 @@ ano,mes,estado,numero,encontro
 2006,Novembro,Distrito Federal,0 Fires,1/1/2006
 2007,Novembro,Distrito Federal,0 Fires,1/1/2007
 2008,Novembro,Distrito Federal,4 Fires,1/1/2008
-2009,Novembro,Distrito Federal, Fires,1/1/2009
+2009,Novembro,Distrito Federal,,1/1/2009
 2010,Novembro,Distrito Federal,0 Fires,1/1/2010
 2011,Novembro,Distrito Federal,1 Fires,1/1/2011
 2012,Novembro,Distrito Federal,0 Fires,1/1/2012
@@ -1678,7 +1678,7 @@ ano,mes,estado,numero,encontro
 2000,Janeiro,Espirito Santo,24 Fires,1/1/2000
 2001,Janeiro,Espirito Santo,18 Fires,1/1/2001
 2002,Janeiro,Espirito Santo,29 Fires,1/1/2002
-2003,Janeiro,Espirito Santo, Fires,1/1/2003
+2003,Janeiro,Espirito Santo,,1/1/2003
 2004,Janeiro,Espirito Santo,22 Fires,1/1/2004
 2005,Janeiro,Espirito Santo,28 Fires,1/1/2005
 2006,Janeiro,Espirito Santo,109 Fires,1/1/2006
@@ -1692,7 +1692,7 @@ ano,mes,estado,numero,encontro
 2014,Janeiro,Espirito Santo,133 Fires,1/1/2014
 2015,Janeiro,Espirito Santo,147 Fires,1/1/2015
 2016,Janeiro,Espirito Santo,61 Fires,1/1/2016
-2017,Janeiro,Espirito Santo, Fires,1/1/2017
+2017,Janeiro,Espirito Santo,,1/1/2017
 1998,Fevereiro,Espirito Santo,0 Fires,1/1/1998
 1999,Fevereiro,Espirito Santo,112 Fires,1/1/1999
 2000,Fevereiro,Espirito Santo,20 Fires,1/1/2000
@@ -1772,7 +1772,7 @@ ano,mes,estado,numero,encontro
 2014,Maio,Espirito Santo,224 Fires,1/1/2014
 2015,Maio,Espirito Santo,114 Fires,1/1/2015
 2016,Maio,Espirito Santo,186 Fires,1/1/2016
-2017,Maio,Espirito Santo, Fires,1/1/2017
+2017,Maio,Espirito Santo,,1/1/2017
 1998,Junho,Espirito Santo,70 Fires,1/1/1998
 1999,Junho,Espirito Santo,132 Fires,1/1/1999
 2000,Junho,Espirito Santo,135 Fires,1/1/2000
@@ -1803,7 +1803,7 @@ ano,mes,estado,numero,encontro
 2005,Julho,Espirito Santo,467 Fires,1/1/2005
 2006,Julho,Espirito Santo,336 Fires,1/1/2006
 2007,Julho,Espirito Santo,446 Fires,1/1/2007
-2008,Julho,Espirito Santo, Fires,1/1/2008
+2008,Julho,Espirito Santo,,1/1/2008
 2009,Julho,Espirito Santo,477 Fires,1/1/2009
 2010,Julho,Espirito Santo,707 Fires,1/1/2010
 2011,Julho,Espirito Santo,801 Fires,1/1/2011
@@ -1814,7 +1814,7 @@ ano,mes,estado,numero,encontro
 2016,Julho,Espirito Santo,1.004 Fires,1/1/2016
 2017,Julho,Espirito Santo,610 Fires,1/1/2017
 1998,Agosto,Espirito Santo,875 Fires,1/1/1998
-1999,Agosto,Espirito Santo, Fires,1/1/1999
+1999,Agosto,Espirito Santo,,1/1/1999
 2000,Agosto,Espirito Santo,769 Fires,1/1/2000
 2001,Agosto,Espirito Santo,858 Fires,1/1/2001
 2002,Agosto,Espirito Santo,2.041 Fires,1/1/2002
@@ -1834,18 +1834,18 @@ ano,mes,estado,numero,encontro
 2016,Agosto,Espirito Santo,1.433 Fires,1/1/2016
 2017,Agosto,Espirito Santo,2.142 Fires,1/1/2017
 1998,Setembro,Espirito Santo,1.981 Fires,1/1/1998
-1999,Setembro,Espirito Santo, Fires,1/1/1999
+1999,Setembro,Espirito Santo,,1/1/1999
 2000,Setembro,Espirito Santo,1.08 Fires,1/1/2000
 2001,Setembro,Espirito Santo,1.597 Fires,1/1/2001
 2002,Setembro,Espirito Santo,3.1 Fires,1/1/2002
 2003,Setembro,Espirito Santo,7.091 Fires,1/1/2003
 2004,Setembro,Espirito Santo,4.339 Fires,1/1/2004
-2005,Setembro,Espirito Santo, Fires,1/1/2005
+2005,Setembro,Espirito Santo,,1/1/2005
 2006,Setembro,Espirito Santo,2.78 Fires,1/1/2006
 2007,Setembro,Espirito Santo,5.088 Fires,1/1/2007
 2008,Setembro,Espirito Santo,2.552 Fires,1/1/2008
 2009,Setembro,Espirito Santo,1.31 Fires,1/1/2009
-2010,Setembro,Espirito Santo, Fires,1/1/2010
+2010,Setembro,Espirito Santo,,1/1/2010
 2011,Setembro,Espirito Santo,5.978 Fires,1/1/2011
 2012,Setembro,Espirito Santo,3.219 Fires,1/1/2012
 2013,Setembro,Espirito Santo,1.656 Fires,1/1/2013
@@ -2062,7 +2062,7 @@ ano,mes,estado,numero,encontro
 2005,Agosto,Goias,391 Fires,1/1/2005
 2006,Agosto,Goias,728 Fires,1/1/2006
 2007,Agosto,Goias,462 Fires,1/1/2007
-2008,Agosto,Goias, Fires,1/1/2008
+2008,Agosto,Goias,,1/1/2008
 2009,Agosto,Goias,759 Fires,1/1/2009
 2010,Agosto,Goias,511 Fires,1/1/2010
 2011,Agosto,Goias,175 Fires,1/1/2011
@@ -2070,7 +2070,7 @@ ano,mes,estado,numero,encontro
 2013,Agosto,Goias,236 Fires,1/1/2013
 2014,Agosto,Goias,459 Fires,1/1/2014
 2015,Agosto,Goias,379 Fires,1/1/2015
-2016,Agosto,Goias, Fires,1/1/2016
+2016,Agosto,Goias,,1/1/2016
 2017,Agosto,Goias,713 Fires,1/1/2017
 1998,Setembro,Goias,6 Fires,1/1/1998
 1999,Setembro,Goias,101 Fires,1/1/1999
@@ -2107,7 +2107,7 @@ ano,mes,estado,numero,encontro
 2010,Outubro,Goias,76 Fires,1/1/2010
 2011,Outubro,Goias,102 Fires,1/1/2011
 2012,Outubro,Goias,34 Fires,1/1/2012
-2013,Outubro,Goias, Fires,1/1/2013
+2013,Outubro,Goias,,1/1/2013
 2014,Outubro,Goias,122 Fires,1/1/2014
 2015,Outubro,Goias,21 Fires,1/1/2015
 2016,Outubro,Goias,56 Fires,1/1/2016
@@ -2147,7 +2147,7 @@ ano,mes,estado,numero,encontro
 2010,Dezembro,Goias,23 Fires,1/1/2010
 2011,Dezembro,Goias,24 Fires,1/1/2011
 2012,Dezembro,Goias,32 Fires,1/1/2012
-2013,Dezembro,Goias, Fires,1/1/2013
+2013,Dezembro,Goias,,1/1/2013
 2014,Dezembro,Goias,45 Fires,1/1/2014
 2015,Dezembro,Goias,19 Fires,1/1/2015
 2016,Dezembro,Goias,20 Fires,1/1/2016

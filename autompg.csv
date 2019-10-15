@@ -70,9 +70,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model year,origin,car 
 13,8,350,155,4502,13.5,72,1,buick lesabre custom
 12,8,350,160,4456,13.5,72,1,oldsmobile delta 88 royale
 13,8,400,190,4422,12.5,72,1,chrysler newport royal
-19,3,70,97,2330,13.5,72,3,mazda rx2 coupe
-15,8,304,150,3892,12.5,72,1,amc matador (sw)
-13,8,307,130,4098,14,72,1,chevrolet chevelle concours (sw)
 13,8,302,140,4294,16,72,1,ford gran torino (sw)
 14,8,318,150,4077,14,72,1,plymouth satellite custom (sw)
 18,4,121,112,2933,14.5,72,2,volvo 145e (sw)
